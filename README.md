@@ -7,5 +7,5 @@
 ##
 
 <div>
-  <img src="./github/desktop-design.jpg"  />
+  <img src=".github/desktop-design.jpg" />
 </div>
