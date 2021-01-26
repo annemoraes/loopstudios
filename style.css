@@ -161,3 +161,9 @@ footer {
     margin-left: 25px;
     cursor: pointer;
 }
+
+.images-footer img:hover {
+    transition: 0.2s;
+    box-shadow: 0 0 8px 0 rgba(0,0,0,0.2);
+    opacity: 50%;
+}
